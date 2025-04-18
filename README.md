@@ -4,7 +4,7 @@ Welcome! I’m a physics student passionate about AI and game design. Below are 
 
 ---
 
-## 👾 Project 1: Patrol & Alert AI
+##  Project 1: Patrol & Alert AI
 
 - **Tools**: Python + Pygame  
 - **Concept**: Enemy patrols, detects player, chases or alerts backup
